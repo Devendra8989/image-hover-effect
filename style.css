@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     color: white;
-    scroll-behavior: sm;
+    scroll-behavior: smooth;
     transition: 0.5s;
 }
 
